@@ -1,0 +1,14 @@
+html, body {
+  /* background: #333; */
+}
+
+.container-fluid {
+  /* margin-top: 50px; */
+}
+
+.d3-img {
+  width: 100%;
+  max-width: 300px;
+  display: inline-block;
+  text-align: center;
+}
