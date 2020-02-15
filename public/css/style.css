@@ -6,9 +6,27 @@ html, body {
   /* margin-top: 50px; */
 }
 
+.container {
+  position: relative;
+}
+
 .d3-img {
   width: 100%;
   max-width: 300px;
   display: inline-block;
   text-align: center;
+}
+
+.kadala-404 {
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.left-side {
+  left: 0;
+}
+
+.right-side {
+  right: 0;
 }
